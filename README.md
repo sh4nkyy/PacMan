@@ -1,2 +1,2 @@
 # PacMan
-PacMan project in PyGame
+PacMan written in Python using the PyGame library
